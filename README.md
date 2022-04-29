@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Loogibot
 - 👀 I’m interested in mobile apps, front and back end programming, games
-- 🌱 I’m currently learning kotlin, android studio and git/github
+- 🌱 I’m currently learning kotlin, android studio, React and git/github
 - 📫 loogibot@gmail 
 
 <!---
